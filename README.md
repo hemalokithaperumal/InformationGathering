@@ -1,9 +1,7 @@
-# InformationGathering
+# EX.NO-2-InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
-
-## EXPERIMENT NO:2
 
 # AIM:
 
